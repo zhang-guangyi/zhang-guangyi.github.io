@@ -607,3 +607,84 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+
+.pub-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-bottom: 1.5em;
+  padding: 0.5em 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.pub-row .abbr {
+  flex: 0 0 100px;
+  max-width: 100px;
+  margin-right: 10px;
+  padding-top: 4px;
+}
+
+.pub-row .abbr .badge {
+  display: inline-block;
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 3px 8px;
+  font-size: 13px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.pub-row .pub-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.pub-row .title a {
+  font-weight: 600;
+  font-size: 100%;
+  color: #043361;
+  text-decoration: none;
+}
+
+.pub-row .title a:hover {
+  text-decoration: underline;
+}
+
+.pub-row .author {
+  font-size: 90%;
+  color: #444;
+  margin-top: 2px;
+}
+
+.pub-row .periodical {
+  font-size: 85%;
+  margin-top: 2px;
+  color: #777;
+}
+
+.pub-row .links a {
+  font-size: 12px;
+  margin-right: 10px;
+  text-decoration: none;
+  color: #0077cc;
+}
+
+.pub-row .links a:hover {
+  text-decoration: underline;
+}
+
+/* 响应式调整（移动端） */
+@media screen and (max-width: 600px) {
+  .pub-row {
+    flex-direction: column;
+  }
+
+  .pub-row .abbr {
+    margin-bottom: 6px;
+  }
+
+  .pub-row .pub-content {
+    padding-left: 0;
+  }
+}
