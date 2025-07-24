@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou, China, supervised by [Prof. Yunlong Cai](https://person.zju.edu.cn/ylcai/) and [Prof. Guanding Yu](https://person.zju.edu.cn/yuguanding). I received my bachelor degree (2018-2022) at Zhejiang University, majoring in Information Engineering. I am lucky to collaborate with Qiyu Hu, recently.
+I am a Ph.D. student at College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou, China, supervised by [Prof. Yunlong Cai](https://person.zju.edu.cn/ylcai/) and [Prof. Guanding Yu](https://person.zju.edu.cn/yuguanding). I received my bachelor degree (2018-2022) at Zhejiang University, majoring in Information Engineering. 
 
 ## Research Interests
 
