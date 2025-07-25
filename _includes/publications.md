@@ -6,9 +6,10 @@
 <li>
 <div class="pub-row">
 
-  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">AAAI2025</abbr>
-  </div> -->
+  </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2408.16340">Learned Image Transmission with Hierarchical Variational Autoencoder</a></div>
@@ -27,9 +28,10 @@
 <li>
 <div class="pub-row">
 
-  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IEEE TCCN</abbr>
-  </div> -->
+  </div>
 
   <div class="col-sm-9" style="position: relative; padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10907944">Progressive Learned Image Transmission for Semantic Communication Using Hierarchical VAE</a></div>
@@ -47,9 +49,10 @@
 <li>
 <div class="pub-row">
 
-  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IEEE TCOM</abbr>
-  </div> -->
+  </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10778620">From Analog to Digital: Multi-Order Digital Joint Coding-Modulation for Semantic Communication</a></div>
@@ -67,9 +70,10 @@
 <li>
 <div class="pub-row">
 
-  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IEEE TCOM</abbr>
-  </div> -->
+  </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10431795">A Unified Multi-Task Semantic Communication System for Multimodal Data</a></div>
@@ -87,9 +91,10 @@
 <li>
 <div class="pub-row">
 
-  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IEEE COMML</abbr>
-  </div> -->
+  </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10345598">Alleviating Distortion Accumulation in Multi-Hop Semantic Communication</a></div>
@@ -108,9 +113,10 @@
 <li>
 <div class="pub-row">
 
-  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IEEE TWC</abbr>
-  </div> -->
+  </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10101778">Robust Semantic Communications With Masked VQ-VAE Enabled Codebook</a></div>
