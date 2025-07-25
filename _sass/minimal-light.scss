@@ -4,15 +4,17 @@
 body {
   background-color: #fff;
   padding:0px;
-  font: 16.0px/1.5 Liberation Mono, serif; 
+  font: 16.0px/1.5 Arial, serif; 
   color:#595959;
   font-weight:400;
   margin:0
 }
 
 .pub-row {
-  display: flex; 
-  align-items: center;}
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-bottom: 20px; /* 统一间距 */}
 
 .social-icons a{
   display:inline-block;

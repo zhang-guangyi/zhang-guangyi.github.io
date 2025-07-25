@@ -8,8 +8,9 @@ I am a Ph.D. student at College of Information Science and Electronic Engineerin
 
 ## Research Interests
 
-- **Semantic Communication** multi-modal data coding, adaptive-rate coding, semantic communication security
-- **Physical Layer Communication** channel feedback, channel estimation, end-to-end learning, beamforming
+- **Semantic Communication:** multi-modal data coding, adaptive-rate coding, semantic communication security
+- **Physical Layer Communication:** channel feedback, channel estimation, end-to-end learning, beamforming
+- **Speculative Decoding:** LLM acceleration, edge-cloud collaboration 
 
 <!-- ## News
 
