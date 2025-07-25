@@ -2,11 +2,11 @@
 layout: homepage
 ---
 
-## About Me
+## 💡About Me
 
 I am a Ph.D. student at College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou, China, supervised by [Prof. Yunlong Cai](https://person.zju.edu.cn/ylcai/) and [Prof. Guanding Yu](https://person.zju.edu.cn/yuguanding). I received my bachelor degree (2018-2022) at Zhejiang University, majoring in Information Engineering. 
 
-## Research Interests
+## 🔍Research Interests
 
 - **Semantic Communication:** multi-modal data coding, adaptive-rate coding, semantic communication security
 - **Physical Layer Communication:** channel feedback, channel estimation, end-to-end learning, beamforming

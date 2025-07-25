@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-  <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+  <img src="assets/img/AAAI_HJSCC.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">AAAI2025</abbr>
   </div>
 
@@ -29,7 +29,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-  <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+  <img src="assets/img/TCCN_Plit.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IEEE TCCN</abbr>
   </div>
 
@@ -50,7 +50,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-  <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+  <img src="assets/img/Tcom_MDJCM.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IEEE TCOM</abbr>
   </div>
 
@@ -71,7 +71,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-  <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+  <img src="assets/img/Tcom_UdeepSC.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IEEE TCOM</abbr>
   </div>
 
@@ -92,7 +92,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-  <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+  <img src="assets/img/COMML_Recursive.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IEEE COMML</abbr>
   </div>
 
@@ -114,7 +114,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-  <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+  <img src="assets/img/TWC_VQVAE.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IEEE TWC</abbr>
   </div>
 
