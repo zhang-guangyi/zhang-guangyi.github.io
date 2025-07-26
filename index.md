@@ -14,7 +14,7 @@ I am a Ph.D. student at College of Information Science and Electronic Engineerin
 
 ## 🚧 News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[Jul. 2025]** My personal website is now live—feel free to visit!
 
 
 {% include_relative _includes/publications.md %}
