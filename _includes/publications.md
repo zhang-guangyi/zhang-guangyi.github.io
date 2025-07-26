@@ -116,7 +116,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-  <img src="assets/img/TWC_Fast.png" class="teaser img-fluid z-depth-1">
+  <img src="assets/img/TWC_FAST.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IEEE TWC</abbr>
   </div>
 
