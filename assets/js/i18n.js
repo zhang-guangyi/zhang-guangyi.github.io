@@ -97,7 +97,7 @@
     [".experience-timeline article:nth-child(3) .experience-type", "本科阶段"],
     [".experience-timeline article:nth-child(3) h3", "信息工程工学学士"],
     [".experience-timeline article:nth-child(3) .experience-place", "浙江大学 · 中国杭州"],
-    [".experience-timeline article:nth-child(3) .experience-detail>p:last-of-type", "GPA 4.41/5.00 · 专业前 10% · 浙江大学优秀毕业生"],
+    [".experience-timeline article:nth-child(3) .experience-detail>p:last-of-type", "浙江大学优秀毕业生"],
 
     ["#honors .kicker", "05 · 荣誉奖励"],
     ["#honors .intro h2", "荣誉与奖励"],

@@ -321,3 +321,22 @@ footer>.shell{grid-template-columns:1fr auto auto auto;gap:24px}
   .year small{font-size:13px}
   .year small b{font-size:14px}
 }
+
+.hero h1{font-size:clamp(46px,5vw,66px)}
+@media(max-width:780px){
+  .hero h1{font-size:clamp(44px,12vw,58px)}
+}
+
+.hero{padding-top:108px;padding-bottom:44px}
+section.section{padding-top:50px;padding-bottom:50px}
+#honors.section{padding-top:46px;padding-bottom:46px}
+@media(max-width:780px){
+  .hero{padding-top:90px;padding-bottom:38px}
+  section.section{padding-top:40px;padding-bottom:40px}
+  #honors.section{padding-top:38px;padding-bottom:38px}
+}
+
+.hero h1{font-size:clamp(42px,4.4vw,58px)}
+@media(max-width:780px){
+  .hero h1{font-size:clamp(40px,10.5vw,52px)}
+}
