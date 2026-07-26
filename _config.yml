@@ -1,19 +1,19 @@
 # Basic Information 
 title: Guangyi Zhang (张光义)
-position: Ph.D. Student
+position: Ph.D. Candidate
 affiliation: Zhejiang University
 email: zhangguangyi@zju.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Guangyi Zhang, semantic communication, multimodal AI, speculative decoding, Zhejiang University
+description: Guangyi Zhang is a Ph.D. candidate at Zhejiang University working on semantic communication, efficient multimodal AI, and edge-cloud intelligence.
+canonical: https://zhang-guangyi.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=EGRWj9YAAAAJ&hl=zh-CN 
-# cv_link: assets/files/curriculum_vitae.pdf
+google_scholar: https://scholar.google.com/citations?user=EGRWj9YAAAAJ&hl=en
+cv_link: assets/files/guangyi-zhang-cv.pdf
 github_link: https://github.com/zhang-guangyi/ 
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
