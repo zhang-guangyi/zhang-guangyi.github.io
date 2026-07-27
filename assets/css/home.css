@@ -377,3 +377,6 @@ footer{padding-top:22px;padding-bottom:22px}
 }
 
 .pub-copy .meta{font-size:12px}
+.pub-highlight{color:#b5443e;font-style:italic;font-weight:700}
+[data-theme=dark] .pub-highlight{color:#ff9188}
+.ribbon{right:auto;bottom:10px;left:50%;width:max-content;max-width:calc(100% - 20px);padding:6px 11px;font-size:11px;line-height:1.25;white-space:nowrap;transform:translateX(-50%)}
